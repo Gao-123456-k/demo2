@@ -17,7 +17,7 @@ public class Demo2Application {
         // 打印不同级别的日志
         log.info("项目启动成功，这是INFO级别日志");
         log.debug("调试日志：DEBUG级别");
-        log.warn("警告日志：WARN级别");
+        log.warn("警告日志：WARN级");
         log.error("错误日志：ERROR级别");
     }
 
